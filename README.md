@@ -1,6 +1,6 @@
 # 521153S-3006-DL-Transfer-Learning-for-Multi-label-Medical-Image-Classification
 
-# ODIR Multi‑Label Retinal Disease Classification (DR / Glaucoma / AMD)
+## ODIR Multi‑Label Retinal Disease Classification (DR / Glaucoma / AMD)
 
 ## Overview
 This project trains multi‑label classifiers on the ODIR fundus dataset for **Diabetic Retinopathy (DR)**, **Glaucoma**, and **Age‑related Macular Degeneration (AMD)**. The work progresses through Tasks 1–3 (transfer learning, loss functions, attention) and Task 4 extensions (VAE augmentation, transformer backbones, and GradCAM analysis / GradCAM‑guided training).
